@@ -1,0 +1,13 @@
+The file(s) can be downloaded with the following URL(s):
+
+https://fts.capgemini.com/private/6289112843970/WPF.7z link valid until 2018-01-18 10:00 UTC (SSO protected)
+
+https://fts.capgemini.com/private/6289112843970/WinformDemos.7z link valid until 2018-01-18 10:00 UTC (SSO protected)
+
+https://fts.capgemini.com/private/6289112843970/MVCDemos.7z link valid until 2018-01-18 10:00 UTC (SSO protected)
+
+https://fts.capgemini.com/private/6289112843970/AspDemos.7z link valid until 2018-01-18 10:00 UTC (SSO protected)
+
+https://fts.capgemini.com/private/6289112843970/C.7z link valid until 2018-01-18 10:00 UTC (SSO protected)
+
+https://fts.capgemini.com/private/6289112843970/ADo.Net.7z link valid until 2018-01-18 10:00 UTC (SSO protected)
