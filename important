@@ -1,0 +1,15 @@
+close connecion is returned to the connection pool, all non pending trans are rolled back, stateevent is fired
+
+if we have insert,update in gridview we use commandfield, if we change the layout of the data  of gridview we use templatefield, boundfield is used when data is bound
+
+directive adds a user control declaratively to a web page- @register
+
+to improve scalability we use client side technique, for offline apps we use local storage.
+
+parseexact- we can pass the date and specify a format in which we want the date.
+
+code manager manages code execution
+
+performance testing - stress, volume, security
+
+baseline are set in construction phase
